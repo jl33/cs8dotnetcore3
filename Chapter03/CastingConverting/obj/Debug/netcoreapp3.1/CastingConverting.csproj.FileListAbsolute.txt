@@ -1,0 +1,11 @@
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter03\CastingConverting\bin\Debug\netcoreapp3.1\CastingConverting.exe
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter03\CastingConverting\bin\Debug\netcoreapp3.1\CastingConverting.deps.json
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter03\CastingConverting\bin\Debug\netcoreapp3.1\CastingConverting.runtimeconfig.json
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter03\CastingConverting\bin\Debug\netcoreapp3.1\CastingConverting.runtimeconfig.dev.json
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter03\CastingConverting\bin\Debug\netcoreapp3.1\CastingConverting.dll
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter03\CastingConverting\bin\Debug\netcoreapp3.1\CastingConverting.pdb
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter03\CastingConverting\obj\Debug\netcoreapp3.1\CastingConverting.csprojAssemblyReference.cache
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter03\CastingConverting\obj\Debug\netcoreapp3.1\CastingConverting.AssemblyInfoInputs.cache
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter03\CastingConverting\obj\Debug\netcoreapp3.1\CastingConverting.AssemblyInfo.cs
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter03\CastingConverting\obj\Debug\netcoreapp3.1\CastingConverting.dll
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter03\CastingConverting\obj\Debug\netcoreapp3.1\CastingConverting.pdb

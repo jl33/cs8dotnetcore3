@@ -1,0 +1,11 @@
+c:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.exe
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.deps.json
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.runtimeconfig.json
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.runtimeconfig.dev.json
+c:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.dll
+c:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.pdb
+c:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.csprojAssemblyReference.cache
+c:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.AssemblyInfoInputs.cache
+c:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.AssemblyInfo.cs
+c:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.dll
+c:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.pdb

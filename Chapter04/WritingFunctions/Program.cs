@@ -1,4 +1,5 @@
-﻿using static System.Console;
+﻿using System;
+using static System.Console;
 
 namespace WritingFunctions
 {
@@ -10,7 +11,7 @@ namespace WritingFunctions
       for (int row = 1; row <= 12; row++)
       {
         WriteLine(
-          $"{row} x {number} = {row * number}");
+          $"{row,3} x {number} = {row * number,5}");
       }
       WriteLine();
     }
@@ -83,7 +84,7 @@ namespace WritingFunctions
       string amountInText = ReadLine();
 
       Write("Enter a two-letter region code: ");
-      string region = ReadLine();
+      string region = ReadLine().ToUpper();
 
       if (decimal.TryParse(amountInText, out decimal amount))
       {
@@ -131,7 +132,9 @@ namespace WritingFunctions
           return $"{number}{suffix}";
       }
     }
-
+    /// <summary>
+    /// 
+    /// </summary>
     static void RunCardinalToOrdinal()
     {
       for (int number = 1; number <= 40; number++)
@@ -140,7 +143,11 @@ namespace WritingFunctions
       }
       WriteLine();
     }
-
+    /// <summary>
+    /// calculate factorial.
+    /// </summary>
+    /// <param name="number">valid number is 1 ~ 31, otherwise will due to overflow</param>
+    /// <returns>int, the factorial calc result</returns>
     static int Factorial(int number)
     {
       if (number < 1)
@@ -157,6 +164,10 @@ namespace WritingFunctions
       }
     }
 
+    /// <summary>
+    /// run factorial function
+    /// <returns>none</returns>
+    /// </summary>
     static void RunFactorial()
     {
       bool isNumber;
@@ -169,8 +180,13 @@ namespace WritingFunctions
 
         if (isNumber)
         {
+          try{
           WriteLine(
             $"{number:N0}! = {Factorial(number):N0}");
+            }
+            catch(Exception ex){
+              WriteLine($"{ex.GetType().ToString()} is {ex.Message}");
+            }
         }
         else
         {

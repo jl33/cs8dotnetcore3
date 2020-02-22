@@ -1,0 +1,11 @@
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter03\Exercise05\bin\Debug\netcoreapp3.1\Exercise05.exe
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter03\Exercise05\bin\Debug\netcoreapp3.1\Exercise05.deps.json
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter03\Exercise05\bin\Debug\netcoreapp3.1\Exercise05.runtimeconfig.json
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter03\Exercise05\bin\Debug\netcoreapp3.1\Exercise05.runtimeconfig.dev.json
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter03\Exercise05\bin\Debug\netcoreapp3.1\Exercise05.dll
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter03\Exercise05\bin\Debug\netcoreapp3.1\Exercise05.pdb
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter03\Exercise05\obj\Debug\netcoreapp3.1\Exercise05.csprojAssemblyReference.cache
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter03\Exercise05\obj\Debug\netcoreapp3.1\Exercise05.AssemblyInfoInputs.cache
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter03\Exercise05\obj\Debug\netcoreapp3.1\Exercise05.AssemblyInfo.cs
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter03\Exercise05\obj\Debug\netcoreapp3.1\Exercise05.dll
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter03\Exercise05\obj\Debug\netcoreapp3.1\Exercise05.pdb

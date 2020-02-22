@@ -1,0 +1,11 @@
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter02\Formatting\bin\Debug\netcoreapp3.1\Formatting.exe
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter02\Formatting\bin\Debug\netcoreapp3.1\Formatting.deps.json
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter02\Formatting\bin\Debug\netcoreapp3.1\Formatting.runtimeconfig.json
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter02\Formatting\bin\Debug\netcoreapp3.1\Formatting.runtimeconfig.dev.json
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter02\Formatting\bin\Debug\netcoreapp3.1\Formatting.dll
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter02\Formatting\bin\Debug\netcoreapp3.1\Formatting.pdb
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.csprojAssemblyReference.cache
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.AssemblyInfoInputs.cache
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.AssemblyInfo.cs
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.dll
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.pdb

@@ -1,0 +1,14 @@
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Dumping\bin\Debug\netcoreapp3.1\Dumping.exe
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Dumping\bin\Debug\netcoreapp3.1\Dumping.deps.json
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Dumping\bin\Debug\netcoreapp3.1\Dumping.runtimeconfig.json
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Dumping\bin\Debug\netcoreapp3.1\Dumping.runtimeconfig.dev.json
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Dumping\bin\Debug\netcoreapp3.1\Dumping.dll
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Dumping\bin\Debug\netcoreapp3.1\Dumping.pdb
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Dumping\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Dumping\bin\Debug\netcoreapp3.1\SharpPad.dll
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.csprojAssemblyReference.cache
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.AssemblyInfoInputs.cache
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.AssemblyInfo.cs
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.csproj.CopyComplete
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.dll
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.pdb

@@ -14,7 +14,7 @@ namespace Instrumenting
 
       // text writer is buffered, so this option calls
       // Flush() on all listeners after writing
-      Trace.AutoFlush = true;
+      Trace.AutoFlush = true; 
 
       Debug.WriteLine("Debug says, I am watching!");
       Trace.WriteLine("Trace says, I am watching!");
@@ -32,10 +32,10 @@ namespace Instrumenting
 
       configuration.GetSection("PacktSwitch").Bind(ts);
 
-      Trace.WriteLineIf(ts.TraceError, "Trace error");
-      Trace.WriteLineIf(ts.TraceWarning, "Trace warning");
-      Trace.WriteLineIf(ts.TraceInfo, "Trace information");
-      Trace.WriteLineIf(ts.TraceVerbose, "Trace verbose");
+      Trace.WriteLineIf(ts.TraceError, "Trace error~.");
+      Trace.WriteLineIf(ts.TraceWarning, "Trace warning~.");
+      Trace.WriteLineIf(ts.TraceInfo, "Trace information~.");
+      Trace.WriteLineIf(ts.TraceVerbose, "Trace verbose~.");
 
     }
   }

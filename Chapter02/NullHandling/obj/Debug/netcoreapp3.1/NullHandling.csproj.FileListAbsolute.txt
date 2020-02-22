@@ -1,0 +1,11 @@
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter02\NullHandling\bin\Debug\netcoreapp3.1\NullHandling.exe
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter02\NullHandling\bin\Debug\netcoreapp3.1\NullHandling.deps.json
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter02\NullHandling\bin\Debug\netcoreapp3.1\NullHandling.runtimeconfig.json
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter02\NullHandling\bin\Debug\netcoreapp3.1\NullHandling.runtimeconfig.dev.json
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter02\NullHandling\bin\Debug\netcoreapp3.1\NullHandling.dll
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter02\NullHandling\bin\Debug\netcoreapp3.1\NullHandling.pdb
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter02\NullHandling\obj\Debug\netcoreapp3.1\NullHandling.csprojAssemblyReference.cache
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter02\NullHandling\obj\Debug\netcoreapp3.1\NullHandling.AssemblyInfoInputs.cache
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter02\NullHandling\obj\Debug\netcoreapp3.1\NullHandling.AssemblyInfo.cs
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter02\NullHandling\obj\Debug\netcoreapp3.1\NullHandling.dll
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter02\NullHandling\obj\Debug\netcoreapp3.1\NullHandling.pdb

@@ -1,0 +1,8 @@
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\PrimeFactorsLib\bin\Debug\netstandard2.0\PrimeFactorsLib.deps.json
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\PrimeFactorsLib\bin\Debug\netstandard2.0\PrimeFactorsLib.dll
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\PrimeFactorsLib\bin\Debug\netstandard2.0\PrimeFactorsLib.pdb
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\PrimeFactorsLib\obj\Debug\netstandard2.0\PrimeFactorsLib.csprojAssemblyReference.cache
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\PrimeFactorsLib\obj\Debug\netstandard2.0\PrimeFactorsLib.AssemblyInfoInputs.cache
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\PrimeFactorsLib\obj\Debug\netstandard2.0\PrimeFactorsLib.AssemblyInfo.cs
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\PrimeFactorsLib\obj\Debug\netstandard2.0\PrimeFactorsLib.dll
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\PrimeFactorsLib\obj\Debug\netstandard2.0\PrimeFactorsLib.pdb

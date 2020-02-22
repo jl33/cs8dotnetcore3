@@ -11,6 +11,7 @@ namespace PeopleApp
       // Setting and outputting field values
 
       var bob = new Person();
+      WriteLine(bob.ToString());
       bob.Name = "Bob Smith";
       bob.DateOfBirth = new DateTime(1965, 12, 22);
 
@@ -44,7 +45,8 @@ namespace PeopleApp
 
       bob.BucketList = 
         WondersOfTheAncientWorld.HangingGardensOfBabylon
-        | WondersOfTheAncientWorld.MausoleumAtHalicarnassus;
+        | WondersOfTheAncientWorld.MausoleumAtHalicarnassus
+        | WondersOfTheAncientWorld.StatueOfZeusAtOlympia;
 
       // bob.BucketList = (WondersOfTheAncientWorld)18; 
 
@@ -61,6 +63,9 @@ namespace PeopleApp
       for (int child = 0; child < bob.Children.Count; child++)
       {
         WriteLine($"  {bob.Children[child].Name}");
+      }
+      foreach (var chi in bob.Children){
+        WriteLine($"=>{chi.Name}");
       }
 
       // Making a field static
@@ -80,6 +85,14 @@ namespace PeopleApp
       gerrierAccount.Balance = 98;
 
       WriteLine(format: "{0} earned {1:C} interest.",
+        arg0: gerrierAccount.AccountName,
+        arg1: gerrierAccount.Balance * BankAccount.InterestRate);
+
+      BankAccount.InterestRate = 0.02M; 
+      WriteLine(format: "{0} earned {1:C} interest.(InterestRate changed)",
+        arg0: jonesAccount.AccountName,
+        arg1: jonesAccount.Balance * BankAccount.InterestRate);
+      WriteLine(format: "{0} earned {1:C} interest.(InterestRate changed)",
         arg0: gerrierAccount.AccountName,
         arg1: gerrierAccount.Balance * BankAccount.InterestRate);
 

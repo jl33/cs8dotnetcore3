@@ -1,0 +1,11 @@
+c:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.exe
+c:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.deps.json
+c:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.json
+c:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.dev.json
+c:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.dll
+c:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.pdb
+c:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.csprojAssemblyReference.cache
+c:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfoInputs.cache
+c:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfo.cs
+c:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.dll
+c:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.pdb

@@ -37,6 +37,18 @@ namespace Variables
         $"default(DateTime) = {default(DateTime)}");
       Console.WriteLine(
         $"default(string) = {default(string)}");
+
+      var i=10;
+      var l=102L;
+      var r=3.6;
+      var f=1.3F;
+      var d=2.3M;
+      Console.WriteLine($"i=>{i.GetType()}"); //i=>System.Int32
+      Console.WriteLine($"l=>{l.GetType()}"); //l=>System.Int64
+      Console.WriteLine($"r=>{r.GetType()}"); //r=>System.Double
+      Console.WriteLine($"f=>{f.GetType()}"); //f=>System.Single
+      Console.WriteLine($"d=>{d.GetType()}"); //d=>System.Decimal
+
     }
   }
 }

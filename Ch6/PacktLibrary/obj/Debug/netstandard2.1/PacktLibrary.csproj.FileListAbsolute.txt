@@ -1,0 +1,8 @@
+c:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Ch6\PacktLibrary\obj\Debug\netstandard2.1\PacktLibrary.csprojAssemblyReference.cache
+c:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Ch6\PacktLibrary\obj\Debug\netstandard2.1\PacktLibrary.AssemblyInfoInputs.cache
+c:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Ch6\PacktLibrary\obj\Debug\netstandard2.1\PacktLibrary.AssemblyInfo.cs
+c:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Ch6\PacktLibrary\bin\Debug\netstandard2.1\PacktLibrary.deps.json
+c:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Ch6\PacktLibrary\bin\Debug\netstandard2.1\PacktLibrary.dll
+c:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Ch6\PacktLibrary\bin\Debug\netstandard2.1\PacktLibrary.pdb
+c:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Ch6\PacktLibrary\obj\Debug\netstandard2.1\PacktLibrary.dll
+c:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Ch6\PacktLibrary\obj\Debug\netstandard2.1\PacktLibrary.pdb

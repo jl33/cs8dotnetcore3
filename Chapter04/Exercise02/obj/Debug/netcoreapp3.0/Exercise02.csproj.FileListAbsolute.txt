@@ -1,0 +1,14 @@
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Exercise02\bin\Debug\netcoreapp3.0\Exercise02.exe
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Exercise02\bin\Debug\netcoreapp3.0\Exercise02.deps.json
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Exercise02\bin\Debug\netcoreapp3.0\Exercise02.runtimeconfig.json
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Exercise02\bin\Debug\netcoreapp3.0\Exercise02.runtimeconfig.dev.json
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Exercise02\bin\Debug\netcoreapp3.0\Exercise02.dll
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Exercise02\bin\Debug\netcoreapp3.0\Exercise02.pdb
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Exercise02\bin\Debug\netcoreapp3.0\Exercise02Lib.dll
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Exercise02\bin\Debug\netcoreapp3.0\Exercise02Lib.pdb
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Exercise02\obj\Debug\netcoreapp3.0\Exercise02.csprojAssemblyReference.cache
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Exercise02\obj\Debug\netcoreapp3.0\Exercise02.AssemblyInfoInputs.cache
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Exercise02\obj\Debug\netcoreapp3.0\Exercise02.AssemblyInfo.cs
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Exercise02\obj\Debug\netcoreapp3.0\Exercise02.csproj.CopyComplete
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Exercise02\obj\Debug\netcoreapp3.0\Exercise02.dll
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\Exercise02\obj\Debug\netcoreapp3.0\Exercise02.pdb

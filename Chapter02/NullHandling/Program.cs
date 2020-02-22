@@ -17,6 +17,9 @@ namespace NullHandling
     {
       int thisCannotBeNull = 4;
       //thisCannotBeNull = null; // compile error!
+string? strnull = null ;
+//int tlen = strnull.Length;
+int? zlen = strnull?.Length;
 
       int? thisCouldBeNull = null;
       Console.WriteLine(thisCouldBeNull);

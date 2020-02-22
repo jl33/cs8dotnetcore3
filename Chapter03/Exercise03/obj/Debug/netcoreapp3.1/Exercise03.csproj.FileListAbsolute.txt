@@ -1,0 +1,11 @@
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter03\Exercise03\bin\Debug\netcoreapp3.1\Exercise03.exe
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter03\Exercise03\bin\Debug\netcoreapp3.1\Exercise03.deps.json
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter03\Exercise03\bin\Debug\netcoreapp3.1\Exercise03.runtimeconfig.json
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter03\Exercise03\bin\Debug\netcoreapp3.1\Exercise03.runtimeconfig.dev.json
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter03\Exercise03\bin\Debug\netcoreapp3.1\Exercise03.dll
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter03\Exercise03\bin\Debug\netcoreapp3.1\Exercise03.pdb
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter03\Exercise03\obj\Debug\netcoreapp3.1\Exercise03.csprojAssemblyReference.cache
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter03\Exercise03\obj\Debug\netcoreapp3.1\Exercise03.AssemblyInfoInputs.cache
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter03\Exercise03\obj\Debug\netcoreapp3.1\Exercise03.AssemblyInfo.cs
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter03\Exercise03\obj\Debug\netcoreapp3.1\Exercise03.dll
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter03\Exercise03\obj\Debug\netcoreapp3.1\Exercise03.pdb

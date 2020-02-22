@@ -36,6 +36,7 @@ namespace CastingConverting
       foreach (double n in doubles)
       {
         WriteLine($"ToInt({n}) is {ToInt32(n)}");
+        WriteLine($"Math.Round({n},0,MidpointRounding.ToEven) is {Math.Round(n,0,MidpointRounding.ToEven)}");
       }
 
       // Taking control of rounding rules
@@ -100,6 +101,12 @@ namespace CastingConverting
       {
         WriteLine("I could not parse the input.");
       }
+
+      // int max=500;
+      // for(byte i=0;i<max;i++)
+      // {
+      //   WriteLine(i);
+      // }
     }
   }
 }

@@ -1,3 +1,4 @@
-Trace says, I am watching!
-Trace error
-Trace warning
+Debug says, I am watching!444
+Trace says, I am watching!44
+Trace error~.444
+Trace warning~.444

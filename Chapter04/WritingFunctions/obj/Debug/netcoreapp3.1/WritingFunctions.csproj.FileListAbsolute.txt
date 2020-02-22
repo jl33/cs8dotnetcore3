@@ -1,0 +1,11 @@
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.exe
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.deps.json
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.runtimeconfig.json
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.runtimeconfig.dev.json
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.dll
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.pdb
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.csprojAssemblyReference.cache
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.AssemblyInfoInputs.cache
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.AssemblyInfo.cs
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.dll
+C:\Users\zhexiang\Documents\VSCode\Projects\Repos\cs8dotnetcore3\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.pdb
