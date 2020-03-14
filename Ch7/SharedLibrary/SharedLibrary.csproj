@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GenernatePackageOnBuild>true</GenernatePackageOnBuild>
+    <PackageId>CS8.Ch7.SharedLibrary</PackageId>
+    <PackageVersion>1.0.0.0</PackageVersion>
+    <Authors>Jason Liao</Authors>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/jl33/cs8dotnetcore3</PackageProjectUrl>
+    <PackageIcon>packt-cs8-sharedlibrary.png</PackageIcon>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageReleaseNotes>test packaged for NuGet</PackageReleaseNotes>
+    <Description>3 method...</Description>
+    <Copyright>copyright...</Copyright>
+    <PackageTags>string ext for ch7</PackageTags>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="packt-cs8-sharedlibrary.png">    
+    <Pack>True</Pack>
+    <PackagePath></PackagePath>
+    </None>
+
+  </ItemGroup>
+
+</Project>

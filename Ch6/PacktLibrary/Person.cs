@@ -79,6 +79,19 @@ namespace Packt.Shared
             // throw new NotImplementedException();
             return Name.CompareTo(other.Name);
         }
+
+        public override string ToString(){
+            return $"{Name} is a {base.ToString()}";
+        }
+
+        public void TimeTravel(DateTime when){
+            if (when <= DateOfBirth){
+                throw new PersonException("If you travel back in time to a date earlier than your own barth, then the universe will explode!");
+            }
+            else{
+                WriteLine($"Welcome to {when:yyyy}!");
+            }
+        }
     }
 
     public class PersonComparer: IComparer<Person>{
