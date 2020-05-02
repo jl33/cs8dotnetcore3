@@ -8,6 +8,18 @@
 		},
 		{
 			"path": "WorkingWithTasks"
+		},
+		{
+			"path": "NestedAndChildTasks"
+		},
+		{
+			"path": "SynchornizingResourceAccess"
+		},
+		{
+			"path": "AsyncConsole"
+		},
+		{
+			"path": "AsyncEnumerable"
 		}
 	]
 }
